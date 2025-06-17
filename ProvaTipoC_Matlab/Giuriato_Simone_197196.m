@@ -75,6 +75,3 @@ step(GclPD)
 %minore, mentre il regolatore PD preferibile per la massima
 %sovraelongazione essendo appunto minore
 
-%NOTA: prima avevo usato Ta=2 e adesso son comodo perchè lui lo mette di
-%default
-%se avessi usato 5 dovevo mettere io 5
