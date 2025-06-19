@@ -68,7 +68,6 @@ hold on
 bode(Gc*G1)%compensato è G1*Gc perche ho il controllore Gc
 
 %3c
-figure,rlocus(G)
-bode(Gc*G1)
+
 Gcl2=feedback(Gc*G1,1)
 %charattheristcs --> peak perchè vuole sovraelongazione
